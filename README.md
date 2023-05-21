@@ -81,8 +81,12 @@ of Random Forest is high compared to other machine learning algorithms.
 ### Random Forest 96.85
 
 ## Predicted class is 1 means website is phishing. It contains malicious code.
+![predicted class is 1](https://github.com/EktaTripathi/Detecting-Phishing-Websites-Using-Machine-Learning/assets/94041887/6a2e677e-4a78-4ccb-bea6-cd47bc2afea3)
+
 
 ## Predicted class is -1 means website is not phishing. It’s safe.
+![predicted class is -1](https://github.com/EktaTripathi/Detecting-Phishing-Websites-Using-Machine-Learning/assets/94041887/efa5b954-e10f-46ca-a460-70de22109153)
+
 
 ## Limitations of the System
 • Since the accuracy rate of random forest is 96.85% so sometimes it failed to detect 
